@@ -12,6 +12,6 @@
 #include <stdlib.h>
 
 int main(void) {
-	printf("!!!Привет мир!!!"); /* prints !!!Hello World!!! */
+	printf("!!!РџСЂРёРІРµС‚ РјРёСЂ!!!"); /* prints !!!Hello World!!! */
 	return EXIT_SUCCESS;
 }
